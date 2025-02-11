@@ -19,8 +19,11 @@ Open the colab notebook from [here](https://github.com/SamurAIGPT/AI-Influencer/
 ### Technologies used
 
 gTTS for text to speech
+
 Sad-Talker for lip-sync
+
 OpenAI for generating prompt for AI image generation
+
 Stable diffusion for image generation
 
 ## 💁 Contribution
