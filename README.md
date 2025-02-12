@@ -2,7 +2,7 @@
 
 Create your virtual AI influencer for free with open-source technologies
 
-Link to medium tutoral :- https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9 
+Link to medium tutorial :- https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9 
 
 ### Demo Video
 
